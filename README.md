@@ -1,5 +1,5 @@
 # **Hello, seja bem vindo ao meu perfil🦔🦄**
-- Eu sou a Evelyn🦖👍
+- **Eu sou a Evelyn🦖👍**
 - Sou uma estudante de programacao 
 - Estou me desenvolvendo no JavaScript
 - Utilizo esse espa;o para minha organização e compartilhamento dos meus projetos desenvolvimento
