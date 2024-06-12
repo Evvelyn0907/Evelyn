@@ -3,5 +3,5 @@
 - Sou uma estudante de programacao 
 - Estou me desenvolvendo no JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvimento
--![](https://media1.tenor.com/m/Kh8ZiE1lj6IAAAAd/ordem-paranormal.gif)
 -![](https://media1.tenor.com/m/epTg_-mwr6wAAAAC/emerge-jurassic-world-camp-cretaceous.gif)
+-![](https://media1.tenor.com/m/sY5p40pfL6YAAAAd/devorador-de-rostos-osni.gif)
